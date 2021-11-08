@@ -1,13 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Statistics and Data Science.
-- 🌱 I’m currently learning Data Science and Python.
-- 👯 I’m looking to collaborate on Environmental Projects, Democracy and Public Accountability.
-- 🤔 I’m looking for help with Python and R for Data Science.
-- 💬 Ask me about Political Science.
-- 📫 How to reach me: 
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I'm a published writer of a fantasy novel.
+Name: Fabrício Freitas
+- 👨‍🎓 Education: Master's Degree in Political Science
+- 👨‍🔬 Current Work: Professor of Political Science and International Relations at University of São Paulo
+- 💡 Goal: To learn Data Science for Political and Financial Analysis
+- 📚 Currently Learning: Python, R and Statistics
+- 👯 I’m looking to collaborate on Environmental Projects, Democracy and Public Accountability
+
+Português
+- 👨‍🎓 Educação: Mestrado em Ciência Política/UFG
+- 👨‍🔬 Trabalho Atual: Professor de Ciência Política e Relações Internacionais na Universidade Paulista
+- 💡 Objetivo: Aprender Ciência de Dados para Análises Políticas e Financeiras
+- 📚 Atualmente aprendendo: Python, R and Estatística
+- 👯 Procuro colaborar com Projetos Ambientais, Democracia e Accountability Pública
 
 <div align="center">
   <a href="https://github.com/fabriciofbrmelo">
