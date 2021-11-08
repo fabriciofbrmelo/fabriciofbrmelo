@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Name: Fabrício Freitas
 - 👨‍🎓 Education: Master's Degree in Political Science
@@ -7,7 +7,7 @@ Name: Fabrício Freitas
 - 📚 Currently Learning: Python, R and Statistics
 - 👯 I’m looking to collaborate on Environmental Projects, Democracy and Public Accountability
 
-Português
+## Português
 - 👨‍🎓 Educação: Mestrado em Ciência Política/UFG
 - 👨‍🔬 Trabalho Atual: Professor de Ciência Política e Relações Internacionais na Universidade Paulista
 - 💡 Objetivo: Aprender Ciência de Dados para Análises Políticas e Financeiras
@@ -25,7 +25,6 @@ Português
   <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fab-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="right" alt="Fab-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
   ##
