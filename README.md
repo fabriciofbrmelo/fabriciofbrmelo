@@ -11,7 +11,7 @@ Name: Fabrício Freitas
 - 👨‍🎓 Educação: Mestrado em Ciência Política/UFG
 - 👨‍🔬 Trabalho Atual: Professor de Ciência Política e Relações Internacionais na Universidade Paulista
 - 💡 Objetivo: Aprender Ciência de Dados para Análises Políticas e Financeiras
-- 📚 Atualmente aprendendo: Python, R and Estatística
+- 📚 Atualmente aprendendo: Python, R and Estatística 
 - 👯 Procuro colaborar com Projetos Ambientais, Democracia e Accountability Pública
 
 <div align="center">
